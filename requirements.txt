@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+requests
+
+## Packages that we will require in order to work with this agent.
